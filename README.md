@@ -1,6 +1,6 @@
 # Домашняя задание хранится на платформе 
 
-## Шаблог для автотеста
+## Шаблог для автотеста из пункта 3 и 4
 ```python
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
